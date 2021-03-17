@@ -1,0 +1,148 @@
+.body {
+	margin-top: 82px;
+	margin-bottom: 87px;
+}
+.container {
+	width: 1088px;
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+/* section-1 style*/
+.h1-a {
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.h2-a{
+	font-family: 'Poppins', sans-serif;
+	width: 498px;
+	height: 115px;
+	font-size: 42px;
+	font-weight: 800;
+	margin-bottom: 50px;
+}
+
+.left-block {
+	background-color: #F8F8F8; 
+	width: 536px;
+	float: left;
+	margin-bottom: 16px;
+
+}
+
+.right-block {
+	background-color: #F8F8F8;
+	width: 536px;
+	float: right;
+	margin-bottom: 16px;
+}
+
+.image {
+	float: left;
+}
+
+.menu {
+	width: 260px;
+	float: left;
+	margin-left: 16px;
+	margin-top: 37px;
+}
+
+.food {
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.h4-a {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 18px;
+	height: 25px;
+}
+
+.p-a {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-top: 10px;
+}
+
+/* section-2 style*/
+.box {
+	background-color: #F8F8F8;
+	width: 352px;
+	height: 360px;
+	float: left;
+}
+
+.space {
+	margin-right: 16px;
+	margin-bottom: 16px;
+}
+
+.blog {
+	margin-top: 90px;
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.h2-b {
+	width: 465px;
+	height: 115px;
+	font-size: 42px;
+	color: #000000;
+	margin-bottom: 50px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 800;
+}
+
+.h4-b {
+	text-align: center;
+	margin-top: 23px;
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.h4-c {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+
+.text-p {
+	width: 260px;
+	height: 42px;
+	margin-left: 46px;
+	font-size: 14px;
+	color: #B1B1B1;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	text-indent: 30px;
+}
+
+.wraper::after {
+	content: '';
+	clear: both;
+	display: block;
+} 
